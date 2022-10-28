@@ -1,0 +1,10 @@
+main{
+    width: 800px;
+    padding: 20px;
+}
+main h1{
+    font-size: 24pt;
+}
+main h2{
+    font-size: 20pt;
+}
